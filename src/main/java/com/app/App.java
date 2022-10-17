@@ -5,7 +5,7 @@ import java.util.UUID;
 
 import com.app.person.DataAccess;
 import com.app.person.Model;
-import com.jk.util.JK;
+import com.jk.core.util.JK;
 
 public class App {
 
