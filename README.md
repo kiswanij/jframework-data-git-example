@@ -16,6 +16,3 @@ The repository contains the following main contents:
 3. [Java Model class](src/main/java/com/app/person/Model.java)    
 4. [Data Access class](src/main/java/com/app/person/DataAccess.java) 
 5. [Main java class](src/main/java/com/app/App.java)  
-
-
-![Screenshot](screenshots/home.png)
