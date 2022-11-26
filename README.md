@@ -4,7 +4,7 @@ _Last updated: 2022-11-26_
 
 This repository contains a _JKFramework-Data_ example which communicates with a Git repository as persistence layer.
 
-## Pre-Requisites:
+## Prerequisites:
 - JDK 17+ Installed
 - A Git repository created.
 
